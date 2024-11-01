@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [mironhasan.com](mironhasen.com)
+- 👨‍💻 All of my projects are available at [mironhasen.com](mironhasen.com)
 
 - 💬 Ask me about **React**
 
