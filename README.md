@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [mironhasen.com](mironhasen.com)
+- 👨‍💻 All of my projects are available at [mironhasen.com](mironhesan.com)
 
 - 💬 Ask me about **React**
 
@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mir0nhasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mir0nhasen" height="30" width="40" /></a>
-<a href="https://fb.com/mir0nhasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mir0nhasen" height="30" width="40" /></a>
-<a href="https://instagram.com/mir0nhasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mir0nhasen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mir0nhasen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mir0nhasen" height="30" width="40" /></a>
+<a href="https://twitter.com/mironhesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mir0nhasen" height="30" width="40" /></a>
+<a href="https://fb.com/mironhesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mir0nhasen" height="30" width="40" /></a>
+<a href="https://instagram.com/mironhesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mir0nhasen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mironhesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mir0nhasen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
