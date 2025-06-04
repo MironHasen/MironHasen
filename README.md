@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [mironhasen.com](mironhesan.com)
+- 👨‍💻 All of my projects are available at [mironhesan.com](mironhesan.com)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **mir0n.hasen@gmail.com**
+- 📫 How to reach me **mironhesan@gmail.com**
 
 - ⚡ Fun fact **I like Programming than my Laptop!**
 
