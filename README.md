@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Miron Hasen</h1>
+<h1 align="center">Hi 👋, I'm Miron Hesan</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mironhasen&label=Profile%20views&color=0e75b6&style=flat" alt="mironhasen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mironhasen&label=Profile%20views&color=0e75b6&style=flat" alt="mironhesan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mironhasen" alt="mironhasen" /></a> </p>
 
